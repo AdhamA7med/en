@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lingo Daily: English for Arabs",
+  "description": "An intelligent, engaging, daily English learning experience that helps Arabic speakers build vocabulary naturally through AI-generated sentences, complete with translations and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
